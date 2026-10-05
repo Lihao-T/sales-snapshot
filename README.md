@@ -1,7 +1,9 @@
 # Sales Snapshot
 
 A beginner-friendly, local sales CSV reporting app built with Python and Streamlit. Use it as a portfolio project and a starting point for paid customisation. No AI API key or paid subscription is needed.
+## Dashboard preview
 
+![Sales Snapshot dashboard using fictional sample data](dashboard.png)
 ## What it does
 
 - Maps your CSV columns to date, product, quantity and line revenue.
