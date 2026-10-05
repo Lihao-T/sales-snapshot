@@ -80,3 +80,14 @@ python -m unittest discover -v
 客户提供销售 CSV，你可以帮助其适配列名、验证数据并定制报表。收费的是你的定制与服务。GitHub 不会因为下载量而给你付钱。本项目不含收款功能，也不保证订单或收入。
 
 收入列必须是每行销售总额，不是单价；不能混合币种。退款等负数行会被排除，因此不能用于计算包含退款的净销售额。不要把真实客户数据上传到 GitHub。
+
+## Custom sales reports
+
+I can adapt this dashboard to your sales CSV format and create
+monthly summaries, product rankings and a printable report.
+
+To discuss a project, open a GitHub Issue describing what you need.
+Please use fictional examples and do not post private customer
+data, passwords or API keys.
+
+Scope, price and delivery time will be agreed before work begins.
